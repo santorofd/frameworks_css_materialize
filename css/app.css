@@ -1,0 +1,184 @@
+        body{
+            background-color: #f57c00;
+        }
+        
+        .img-fondo{
+            margin-top: 160px;
+            position: fixed;
+            width: 100%;
+            z-index: -1;
+            opacity: 0.5;
+        }
+        
+        #cont-logo{
+            width: 150px;
+            height: 150px;
+            background-color: antiquewhite;
+        }
+        
+        .menu{
+            height: 75px;
+            margin: 0;
+            padding: 0 !important;
+        }
+        .slogan{
+            height: 75px;
+            margin: 0;
+            padding: 0;
+        }
+        
+        .slogan p{
+            margin: 0;
+            padding: 10px;;
+            font-family: 'Pacifico',cursive;
+            font-size: 30px;
+        }
+        
+        .slogan-txt{
+            font-family: 'Pacifico',cursive;
+            font-size: 30px;
+            margin: 0 !important;
+            padding: 10px !important;
+        }
+        
+        .slogan-txt-2{
+            font-family: 'Pacifico',cursive;
+            font-size: 30px;
+            margin: 0 !important;
+        }
+        
+        h1{
+            margin: 0;
+            padding: 0;
+        }
+        
+        .nav-wrapper{
+        }
+        
+        .cont-menu-slogan{
+            margin: 0;
+            padding: 0 !important;
+        }
+        
+        .menu-2{
+            margin: 0;
+            padding: 0 !important;
+        }
+        
+        .slogan-2{
+            margin: 0;
+            padding: 0 !important;
+        }
+        
+        .img-logo-2{
+            
+        }
+        
+        #redes-2 img{
+            padding-top: 15px;
+        }
+        
+        #galeria-2 img{
+            margin-bottom: 10px;
+        }
+        
+        
+        
+        .fa {
+                font-size: 30px;
+                width: 50px;
+                height: 50px;
+                padding-top: 3px;
+                margin: 20px;
+                text-align: center;
+                padding-top: 10px;
+                border-radius: 5px;
+            }
+
+            .fa:hover {
+                opacity: 0.7;
+            }
+
+            .fa-facebook {
+              background: #3B5998;
+              color: white;
+            }
+
+            .fa-twitter {
+              background: #55ACEE;
+              color: white;
+            }
+
+            .fa-youtube {
+              background: #bb0000;
+              color: white;
+            }
+            
+            .fa-instagram {
+              background: #125688;
+              color: white;
+            }
+
+            .fa-pinterest {
+              background: #cb2027;
+              color: white;
+            }
+        
+        .ico{
+            width: 50px;
+        }
+        
+        #bio{
+        }
+        
+        .bio-card{
+            padding: 20px;
+        }
+        
+        #articulos{
+        }
+        
+        .articulo{
+            padding: 10px;
+        }
+        
+        .articulo h4{
+            font-family: 'Pacifico',cursive;
+            color: #90a4ae;
+            margin-bottom: 1em;
+            font-size: 45px;
+            text-decoration: underline;
+        }
+        
+        .articulo img{
+            margin: 0 auto;
+            display: block;
+            margin-bottom: 1em;
+        }
+        
+        #formulario{
+        }
+        
+        .about{
+            font-family: 'Pacifico',cursive;
+            color: white;
+            font-size: 25px;
+            border-bottom: 1px solid white;
+        }
+        
+        .chipio{
+            background-color: antiquewhite;
+            border-radius: 25px;
+            display: inline-block;
+            padding: 5px;
+        }
+        
+        nav{
+        }
+        
+        
+        @media only screen and (max-width: 480px) {
+          .ocultar {
+              display: none;
+          }
+        }
